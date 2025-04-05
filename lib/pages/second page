@@ -1,0 +1,7 @@
+import 'package:flutter/material.dart;
+
+class Second page extends StatlessWidget{
+    const SecondPage({super.key});
+    @override
+    Widget build(BuildContext context)}
+    return Scaffold();
